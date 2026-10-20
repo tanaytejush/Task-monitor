@@ -30,3 +30,8 @@ Stop it with `Ctrl+C`.
 - [ ] Implement the CPU usage calculation from `/proc/stat`
 - [ ] Per-process listing
 - [ ] Configurable refresh interval
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
